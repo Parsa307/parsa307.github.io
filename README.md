@@ -1,1 +1,1 @@
-Parsast Projects website that showcases my projects
+Parsast Projects the website that showcases my projects
